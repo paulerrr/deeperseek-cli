@@ -9,7 +9,3 @@ This is a demo project showing how to use the DeeperSeek library. For regular us
 1. `pip install -r requirements.txt`
 2. Copy `example.env` to `.env` and add your credentials
 3. Run `python main.py`
-
-## Note
-
-Unofficial project, not affiliated with DeepSeek.
