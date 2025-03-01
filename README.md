@@ -1,4 +1,4 @@
-# DeepSeek CLI
+# DeeperSeek CLI
 
 A simple command-line tool to chat with [DeepSeek](https://chat.deepseek.com/) AI using the [DeeperSeek](https://github.com/theAbdoSabbagh/DeeperSeek) library.
 
